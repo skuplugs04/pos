@@ -4,4 +4,5 @@ This repository includes brief details and links for all POS system integrations
 ## Loyverse Walmart Integration
 Discover how [**Loyverse POS integration with Walmart**](https://skuplugs.com/loyverse-walmart-integration/) via SKUplugs streamlines inventory, sales, and operations for retail success.
 
-
+## Loyverse Squarespace Integration
+Discover how SKUplugs enables the seamless [**integration of Loyverse POS with Squarespace**](https://skuplugs.com/loyverse-squarespace-integration/), streamlining inventory, sales, and online store management for a unified retail experience.
