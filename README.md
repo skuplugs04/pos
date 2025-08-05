@@ -6,3 +6,6 @@ Discover how [**Loyverse POS integration with Walmart**](https://skuplugs.com/lo
 
 ## Loyverse Squarespace Integration
 Discover how SKUplugs enables the seamless [**integration of Loyverse POS with Squarespace**](https://skuplugs.com/loyverse-squarespace-integration/), streamlining inventory, sales, and online store management for a unified retail experience.
+
+## Loyverse Amazon Integration
+Learn how SKUplugs enables seamless [**Loyverse Amazon integration**](https://skuplugs.com/loyverse-amazon-integration/), allowing retailers to synchronize inventory, manage orders, and streamline multi-channel sales effortlessly. Improve efficiency, reduce manual work, and enhance customer satisfaction with real-time Amazon sync and Loyverse POS point of sale system.
