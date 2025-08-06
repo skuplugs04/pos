@@ -9,3 +9,7 @@ Discover how SKUplugs enables the seamless [**integration of Loyverse POS with S
 
 ## Loyverse Amazon Integration
 Learn how SKUplugs enables seamless [**Loyverse Amazon integration**](https://skuplugs.com/loyverse-amazon-integration/), allowing retailers to synchronize inventory, manage orders, and streamline multi-channel sales effortlessly. Improve efficiency, reduce manual work, and enhance customer satisfaction with real-time Amazon sync and Loyverse POS point of sale system.
+
+## Zoho Inventory and NOon Intgeration
+Discover how SKUplugs’ [**Zoho Inventory and Noon integration**](https://skuplugs.com/zoho-noon-integration/) streamlines your e-commerce operations, boosting efficiency and sales.
+
