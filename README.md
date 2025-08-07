@@ -13,3 +13,12 @@ Learn how SKUplugs enables seamless [**Loyverse Amazon integration**](https://sk
 ## Zoho Inventory and Noon Intgeration
 Discover how SKUplugs’ [**Zoho Inventory and Noon integration**](https://skuplugs.com/zoho-noon-integration/) streamlines your e-commerce operations, boosting efficiency and sales.
 
+## Square POS Squarespsce Integration
+Discover how SKUplugs enables seamless [**integration of Square with Squarespace**](https://skuplugs.com/square-squarespace-integration/), helping your business streamline payments, synchronize inventory, and improve overall customer experience for growth.
+
+
+
+
+
+
+
